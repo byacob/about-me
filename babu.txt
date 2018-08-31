@@ -1,5 +1,6 @@
 green
 blue 
 black 
-
+navy blue 
+white 
 yellow 
